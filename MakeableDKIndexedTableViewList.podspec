@@ -19,7 +19,7 @@ s.requires_arc = true
 s.version = "0.1.0"
 
 # 3
-s.license = { :type => "MIT", :file => "LICENSE" }
+s.license = { :type => "MIT", :file => "LICENSE.txt" }
 
 # 4
 s.author = { "[Andreas Dybdahl]" => "[andreas@makeable.dk]" }
