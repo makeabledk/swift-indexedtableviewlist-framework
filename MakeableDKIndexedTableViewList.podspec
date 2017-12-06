@@ -22,19 +22,19 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE.txt" }
 
 # 4
-s.author = { "[Andreas Dybdahl]" => "[andreas@makeable.dk]" }
+s.author = { "Andreas Dybdahl" => "andreas@makeable.dk" }
 
 # 5
-s.homepage = "[https://github.com/makeabledk/swift-indexedtableviewlist-framework]"
+s.homepage = "https://github.com/makeabledk/swift-indexedtableviewlist-framework"
 
 # 6
-s.source = { :git => "[https://github.com/makeabledk/swift-indexedtableviewlist-framework.git]", :tag => "#{s.version}" }
+s.source = { :git => "https://github.com/makeabledk/swift-indexedtableviewlist-framework.git", :tag => "#{s.version}" }
 
 # 7
 
 
 # 8
-s.source_files = "MakeableDKIndexedTableViewList/**/*.{swift}"
+s.source_files  = "MakeableDKIndexedTableViewList", "MakeableDKIndexedTableViewList/**/*.{h,m,swift}"
 
 # 9
 
