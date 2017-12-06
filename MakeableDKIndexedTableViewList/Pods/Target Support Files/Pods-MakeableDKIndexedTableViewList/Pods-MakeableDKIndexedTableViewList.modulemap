@@ -1,0 +1,6 @@
+framework module Pods_MakeableDKIndexedTableViewList {
+  umbrella header "Pods-MakeableDKIndexedTableViewList-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+
+target 'MakeableDKIndexedTableViewList' do
+  use_frameworks!
+
+  # Pods for MakeableDKIndexedTableViewList
+
+end
